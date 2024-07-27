@@ -1,7 +1,7 @@
 linha 1 teste
 linha 2 teste
 linha 3
-<<<<<<< HEAD
+
 linha 4
 linha 5
 linha 6
@@ -9,6 +9,6 @@ linha 7
 linha 8
 linha 9
 linha 10
-=======
+
 linha 4
->>>>>>> parent of e559ca7 (commit 5)
+correção dos conflitos
