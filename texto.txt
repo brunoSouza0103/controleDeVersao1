@@ -18,3 +18,5 @@ atividades parte 2 linha 2
 atividades parte 2 linha 3
 atividades parte 2 linha 4
 atividades parte 2 linha 5
+
+atividades parte 2 linha 6
