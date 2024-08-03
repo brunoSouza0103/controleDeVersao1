@@ -25,8 +25,18 @@ atividades parte 2 linha 8
 atividades parte 2 linha 9
 atividades parte 2 linha 10
 
+
 conflito 1
+conflito 1.1
 conflito 2
+conflito 2.1
 conflito 3
+conflito 3.1
 conflito 4
+conflito 4.1
 conflito 5
+conflito 5.1
+
+
+
+
